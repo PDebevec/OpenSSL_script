@@ -5,4 +5,4 @@ Windows [cert.bat](cert.bat)
 <br/>
 Linux [cert.sh](cert.sh)
 <br/>
-macOS [OMEGALOL](127.0.0.1)
+macOS [OMEGALOL](www.google.com)
