@@ -1,4 +1,6 @@
-# OpenSSL_Script_Self_Signed_Certificate
-Script to create a Self Signed SSL Certificate <br/>
-for windows [cert.bat](cert.bat)
-
+# Script for SSL Certificate
+Script creates a self signed SSL certificate for the server and client
+<br/>
+Windows [cert.bat](cert.bat)
+Linux [cert.sh](cert.sh)
+macOS [OMEGALOL](127.0.0.1)
