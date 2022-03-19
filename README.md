@@ -5,4 +5,4 @@ Windows [cert.bat](cert.bat)
 <br/>
 Linux [cert.sh](cert.sh)
 <br/>
-macOS [OMEGALOL](www.google.com)
+macOS [OMEGALOL](https://www.google.com/)
